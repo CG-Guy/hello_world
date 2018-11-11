@@ -1,2 +1,2 @@
 # hello_world
-Just a test repository
+My name is Hein and I am just playing around in got to get a feeling for it
